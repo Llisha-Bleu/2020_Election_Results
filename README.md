@@ -1,5 +1,34 @@
 # 2020_US_Presidential_Election_Results
-Predicting the US 2020 Presidential election results
+Predicting the US 2020 Presidential election results. Data to predict how a person is going to vote
+
+Predictors required:
+Gender
+age
+Education
+Income
+race
+Urban/Rural
+
+
+State
+
+Voting prefference:
+Democrat
+Republican
+
+Suggested Model:
+A decision Tree/random forest
+K-Nearest neighbors
+support vector machine
+Logistic regression
+Neural network
+
+Pick a person at random (gender/age/rural= how they will vote)
+
+Census data???
+
+1000 record value for 
+
 
 ## Purpose
 The purpose of this analysis is to provide insight on whether
