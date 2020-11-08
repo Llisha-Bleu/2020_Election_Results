@@ -42,7 +42,8 @@ The electoral votes in swing states are crucial for a candidate to obtain the 27
 - Scheduled Field Date: July 2020
 - Methodology: Online panel.
 - Respondents: Likely November 2020 voters from AZ, MI, NC, PA, WI. Suburban voters.
-- Each row of the data represents a US state - with 5 states- and includes information on voter preference as well as voter information on previous elections, as well as over 70+ other attributes, including information on race, education, earnings, population, age, and more.
+
+Each row of the data represents a US state - with 5 states- and includes information on voter preference as well as voter information on previous elections, as well as over 70+ other attributes, including information on race, education, earnings, population, age, and more.
 
 **Software:** Python 3.7.3, Visual Code, 1.38.1, Tableu for presenting, R studio, Machine Learning, html
 
