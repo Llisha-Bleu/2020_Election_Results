@@ -1,5 +1,5 @@
 # 2020_Election_Results
-Predicting 2020 election results
+Predicting 2020 election results- Machine Learning
 
 **Preparing Data before moving to alogarithms**
 
