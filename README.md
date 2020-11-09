@@ -64,9 +64,9 @@ Each row of the data represents a US state - with 5 states- and includes informa
 
 A group channel have also been created on Slack to discuss ad hocly any impedediments, challenges members may have over the course of the project.
 
-## Resources
+## Sources
 
-- [Global News:] (https://globalnews.ca/news/7390789/us-election-swing-states-explained/)
-- [medium.com:] (https://medium.com/towards-artificial-intelligence/can-ai-predict-the-2020-election-f48cdce1d7b7)
-- [pewresearch.org:] (https://www.pewresearch.org/methods/u-s-survey-research/election-polling/)
-- [wikipedia.com:] (https://en.wikipedia.org/wiki/Swing_state)
+- [Global News:](https://globalnews.ca/news/7390789/us-election-swing-states-explained/)
+- [medium.com:](https://medium.com/towards-artificial-intelligence/can-ai-predict-the-2020-election-f48cdce1d7b7)
+- [pewresearch.org:](https://www.pewresearch.org/methods/u-s-survey-research/election-polling/)
+- [wikipedia.com:](https://en.wikipedia.org/wiki/Swing_state)
