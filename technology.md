@@ -4,7 +4,7 @@
 Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
 
 ## Database Storage
-Mongo is the database we intend to use, and we will integrate Flask to display the data.
+Postgres and pgAdmin will be used for the database. Database storage will be on S3, integrated with AWS RDS database. We will integrate Flask to display the data.
 
 ## Machine Learning
 SciKitLearn is the ML library we'll be using to create a classifier. Our training and testing setup is ___. Extra ML verbiage here.
