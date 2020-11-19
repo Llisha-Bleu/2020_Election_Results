@@ -56,3 +56,7 @@ The algorithm works by taking a data point and finding out the k closest data po
 - Scikit-learning
 - Plotly
 - hvPlot
+
+Google Slide Link
+
+https://docs.google.com/presentation/d/1p-3eSUyGjGrihWDMmWAPNCKWTeaADc-kooUerqEAufg/edit?usp=sharing
