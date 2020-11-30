@@ -7,6 +7,16 @@ The purpose of this analysis is to provide insight on on how a person will vote 
 ## Project Overview
 The United States presidential election is among some of the most influential factors on not only the local market but also the global economy. Given the significance of the US Presidential Election and how it is capable of influencing the global economy, this group of scholors have attempted to predict the outcome of how a person is likely to vote during the 2020 US Presidential Elections. This project will attempt to use machine learning to predict the relationship between the different demographics such as race, age, gender, income to name a few and candidates'/party voter prefrerence totals for U.S. President. Political and economic variables are utilized in the model, and significant variables are identified through further analysis and statistical procedures.
 
+Complete data analytics process by collecting, transforming, cleaning and modeling data
+
+Showcase the usage of various tools such as:
+
+- Python Programming (Python 3, NumPy, API interactions)
+- Using fundamental statistics for modelling and forecasting
+- Databases (MySQL, Mongo DB, ETL)
+- Front-end web visualization (HTML, CSS, JavaScript, Bootstrap)
+
+
 ## Reason why the topic was selected:
 
 Many topics was brainstormed but the topic of the US 2020 Preseidential election was one that was not only current but the talking point of most conversations and as such remains at the forefront of everyone's mind. The group wanted to choose a topic that was not only fun, but one that is current, and relevevant in today's context.
@@ -28,11 +38,81 @@ In swing states, neither party’s candidate has a clear lead, meaning both part
 
 The electoral votes in swing states are crucial for a candidate to obtain the 270 needed to win, and it is for that reason why we choose the topic to be able to predict how a person is likely to vote within these states.
 
+- Is a current topic
+- We had the data for analysis
+- We can use tools and programs we have learned during this course to collect, transform, clean and model data
+- We can use databases such as SQL, NoSQL, MongoDB, Postgres/pgAdmin to store, change or serve the information
+- We can use data visualization like maps and Tableau to tell stories with data making them understandable for the human mind
+- Compare the differences between the traditional machine learning classification and regression models and the neural network models.
+
+
+## Description of their source of data:
+
+- Data for this projects was drawn from a private source i.e a data collection company that specializes in electoral polling.
+- They played a significant role in collecting polling data throughout the 2020 election cycle.
+- Below is a description of our data:
+
+      Sample Size: 1200
+      
+      Margin of Error: ± 2.8%
+      
+      Scheduled Field Date: July 2020
+      
+      Methodology: Online panel.
+      
+      Respondents: Likely November 2020 voters from AZ, MI, NC, PA, WI. Suburban voters.
+      
+Each row of the data represents a US state - with 5 states- and includes information on voter preference as well as voter information on previous elections, as well as over 70+ other attributes, including information on race, education, earnings, population, age, and more.
+
+
+
 ## Questions hoped to answer with the data are:
 1. Is the model able to predict Voter Preference
 2. Are the results of the poll similar to the outcome of the 2020 election for the states selected
 3. What the are comparative results, if any
 4. Does the predictors have a correlation to the voter preference
+
+## Description of the data exploration phase of the project:
+
+The exploration phase includes a lot of data preparation before moving to algorithms, such as: 
+
+- Data selection
+- Data processing
+- Data transformation
+
+We have cleaned the data by dropping some columns and duplicates
+
+After cleaning the data we have created a new data set to apply machine learning analysis
+
+While applying machine learning analysis we have transformed the data to come up with accurate predictors
+
+
+## Description of the data exploration phase of the project:
+
+We have calculated the best K for our model 
+
+Than we trained our model with the best K after find the best K above
+
+We used Decision Trees and Random Forest as well as Gradient Boosting XGBoost and Tensorflow to classify weak and strong learners.
+
+We evaluated input data within a single neuron, as well as across multiple neurons and layers.
+
+We have trained different K models with various training sets to come up with the best predictor.
+
+We have used logistic regression, and support vector regressions to increase predictability.
+
+
+## Dashboard:
+
+StoryBoard:
+
+- Should have a map of the US highlighting states being covered. 
+- Should have charts (Bar Charts, Line Charts (to show correlation between feature label and the 2020 election candidates i.e Trump/Biden)
+
+Description of the tools to be used: Tableau
+
+Description of interactive element: *A map with multiple layers, for example, is a powerful tool. Or an interactive chart that can be filtered or has adjustable zoom can lend great strength to analysis*
+
 
 ## Resources
 
@@ -47,22 +127,10 @@ Each row of the data represents a US state - with 5 states- and includes informa
 
 **Software:** Python 3.7.3, Visual Code, 1.38.1, Tableu for presenting, R studio, Machine Learning, html
 
-## Communication Protocols
-
 **Group Members:**
 
-- Andrew Tavender - `Database Management`
-- Klaudio Kalari - `Machine Learning`
-- Allisha Samuels - `Repository`
-
-**The group have agreed to meet on the following days:**
-
-- **Monday** - Zoom Meeting - Review project requirements and deliverables and assign tasks to members
-- **Wednesday** - Zoom Meeting - To review the progress attempted so far, discuss impediments and or challeges in attempt to move on to next phase of the assignment
-- **Saturday** - Skype Meeting - To finalize work done, and review for further improvemnets
-- **Sunday** - Skype Meeting - To discuss and review final submissions for the project
-
-A group channel have also been created on Slack to discuss ad hocly any impedediments, challenges members may have over the course of the project.
+- Allisha Samuels - `all`
+- Klaudio Kalari - `all`
 
 ## Sources
 
