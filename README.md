@@ -114,17 +114,6 @@ Description of the tools to be used: Tableau
 Description of interactive element: *A map with multiple layers, for example, is a powerful tool. Or an interactive chart that can be filtered or has adjustable zoom can lend great strength to analysis*
 
 
-## Resources
-
-**Data Source:** Data for this projects was drawn from a private source i.e a data collection company that specializes in electorial polling. They played a significant role in collecting polling data throughout the 2020 election cycle. 
-- Sample Size: 1200
-- Margin of Error: ± 2.8%
-- Scheduled Field Date: July 2020
-- Methodology: Online panel.
-- Respondents: Likely November 2020 voters from AZ, MI, NC, PA, WI. Suburban voters.
-
-Each row of the data represents a US state - with 5 states- and includes information on voter preference as well as voter information on previous elections, as well as over 70+ other attributes, including information on race, education, earnings, population, age, and more.
-
 **Software:** Python 3.7.3, Visual Code, 1.38.1, Tableu for presenting, R studio, Machine Learning, html
 
 **Group Members:**
