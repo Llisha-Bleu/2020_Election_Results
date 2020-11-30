@@ -138,3 +138,7 @@ Each row of the data represents a US state - with 5 states- and includes informa
 - [medium.com](https://medium.com/towards-artificial-intelligence/can-ai-predict-the-2020-election-f48cdce1d7b7)
 - [pewresearch.org](https://www.pewresearch.org/methods/u-s-survey-research/election-polling/)
 - [wikipedia.com](https://en.wikipedia.org/wiki/Swing_state)
+
+## Google Slide Link
+
+https://docs.google.com/presentation/d/1p-3eSUyGjGrihWDMmWAPNCKWTeaADc-kooUerqEAufg/edit?usp=sharing
